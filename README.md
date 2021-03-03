@@ -1,8 +1,6 @@
-[![doctor4t's github stats](https://github-readme-stats.vercel.app/api?username=doctor4t&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![doctor4t's github stats](https://github-readme-stats.vercel.app/api?username=doctor4t&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/doctor4t/github-readme-stats)
 
 <!--
-**Pyrofab/Pyrofab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
